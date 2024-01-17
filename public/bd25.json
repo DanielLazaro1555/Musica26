@@ -977,5 +977,192 @@
     "album": "Make It Bun Dem After Hours EP",
     "numero_de_pista": "7/7",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274485_1.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Rap & Hip-Hop",
+    "titulo": "Intro",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "1/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_2.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Rap & Hip-Hop",
+    "titulo": "Last Living Souls",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "2/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_3.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Kids with Guns",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "3/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_4.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Rap & Hip-Hop",
+    "titulo": "O Green World",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "4/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_5.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Dirty Harry",
+    "artista": "Gorillaz feat. Bootie Brown",
+    "album": "Demon Days",
+    "numero_de_pista": "5/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_6.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Rap & Hip-Hop",
+    "titulo": "Feel Good Inc. [Explicit]",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "6/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_7.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "El Mañana",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "7/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_8.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Pop",
+    "titulo": "Every Planet We Reach Is Dead",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "8/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_9.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Pop",
+    "titulo": "November Has Come",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "9/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_10.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Pop",
+    "titulo": "All Alone",
+    "artista": "Gorillaz feat. Martina Topley-Bird & Roots Manuva",
+    "album": "Demon Days",
+    "numero_de_pista": "10/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_11.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Pop",
+    "titulo": "White Light",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "11/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_12.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "DARE",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "12/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_13.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Pop",
+    "titulo": "Fire Coming out of the Monkey's Head",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "13/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_14.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Pop",
+    "titulo": "Don't Get Lost in Heaven",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "14/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274485_15.flac",
+    "descripcion": "198274485",
+    "imagen": "Albums/198274485.jpg",
+    "genero": "Pop",
+    "titulo": "Demon Days",
+    "artista": "Gorillaz",
+    "album": "Demon Days",
+    "numero_de_pista": "15/15",
+    "Año": "2005"
+  },
+  {
+    "archivo_musica": "Albums/198274486_1.flac",
+    "descripcion": "198274486",
+    "imagen": "Albums/198274486.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Hush the Storms Away",
+    "artista": "Varien feat. Strix",
+    "album": "Hush the Storms Away",
+    "numero_de_pista": "1/1",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274487_1.flac",
+    "descripcion": "198274487",
+    "imagen": "Albums/198274487.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Nightcall",
+    "artista": "Kavinsky",
+    "album": "Nightcall",
+    "numero_de_pista": "1/1",
+    "Año": "2010"
   }
 ]
