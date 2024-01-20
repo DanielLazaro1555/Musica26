@@ -1164,5 +1164,115 @@
     "album": "Nightcall",
     "numero_de_pista": "1/1",
     "Año": "2010"
+  },
+  {
+    "archivo_musica": "Albums/198274488_1.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Slide [Explicit]",
+    "artista": "Calvin Harris feat. Frank Ocean & Migos",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "1/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_2.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Cash Out [Explicit]",
+    "artista": "Calvin Harris feat. Shelley FKA DRAM, PARTYNEXTDOOR & Schoolboy Q",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "2/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_3.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Heatstroke [Explicit]",
+    "artista": "Calvin Harris feat. Young Thug, Pharrell Williams & Ariana Grande",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "3/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_4.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Rollin [Explicit]",
+    "artista": "Calvin Harris feat. Future & Khalid",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "4/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_5.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Prayers Up [Explicit]",
+    "artista": "Calvin Harris feat. Travis Scott & A-Trak",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "5/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_6.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Holiday",
+    "artista": "Calvin Harris feat. Snoop Dogg, John Legend & Takeoff",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "6/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_7.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Skrt On Me [Explicit]",
+    "artista": "Calvin Harris feat. Nicki Minaj",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "7/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_8.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Feels [Explicit]",
+    "artista": "Calvin Harris feat. Big Sean, Katy Perry & Pharrell Williams",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "8/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_9.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Faking It [Explicit]",
+    "artista": "Calvin Harris feat. Kehlani & Lil Yachty",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "9/10",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274488_10.flac",
+    "descripcion": "198274488",
+    "imagen": "Albums/198274488.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Hard to Love [Explicit]",
+    "artista": "Calvin Harris feat. Jessie Reyez",
+    "album": "Funk Wav Bounces Vol.1 [Explicit]",
+    "numero_de_pista": "10/10",
+    "Año": "2017"
   }
 ]
